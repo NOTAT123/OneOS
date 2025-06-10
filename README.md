@@ -1,7 +1,12 @@
 # OneOS
-OneOS is a operating system made in Cosmos (C# and C++) by a Polish developer.\n
-OneOS to system operacyjny zrobiony w Cosmos (C# i C++) przez Polskiego Dewelopera.
---
-#INFO
-More info about OneOS you can find [here](https://serowastrona.pl.tl/OneOS.htm)
-Więcej informacji o OneOS możesz znaleźć [tutaj](https://serowastrona.pl.tl/OneOS.htm)
+
+REPOSITORY IS DISCONTINUED!  
+
+
+FILE IS AT GOOGLE DRIVE [CLICK HERE](https://drive.google.com/file/d/1SihwLf_RGbJ_RuLnXA7zvpM1xV2XV-LJ/view?usp=sharing)
+
+
+REPOZYTORUIM ANULOWANE!
+
+PLIK MOZESZ POBRAĆ [TU](https://drive.google.com/file/d/1SihwLf_RGbJ_RuLnXA7zvpM1xV2XV-LJ/view?usp=sharing)
+
