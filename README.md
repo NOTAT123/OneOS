@@ -2,11 +2,11 @@
 
 # REPOSITORY IS DISCONTINUED!  
 
-## FILE IS AT GOOGLE DRIVE [CLICK HERE](https://drive.google.com/file/d/1SihwLf_RGbJ_RuLnXA7zvpM1xV2XV-LJ/view?usp=sharing)
+#### FILE IS AT GOOGLE DRIVE [CLICK HERE](https://drive.google.com/file/d/1SihwLf_RGbJ_RuLnXA7zvpM1xV2XV-LJ/view?usp=sharing)
 
 # REPOZYTORUIM JUŻ NIE JEST KONTYNUOWANE!
 
-## PLIK NADAL MOZESZ POBRAĆ [TU](https://drive.google.com/file/d/1SihwLf_RGbJ_RuLnXA7zvpM1xV2XV-LJ/view?usp=sharing)
+#### PLIK NADAL MOZESZ POBRAĆ [TU](https://drive.google.com/file/d/1SihwLf_RGbJ_RuLnXA7zvpM1xV2XV-LJ/view?usp=sharing)
 
 # 🖥️ OneOS – Mój własny system operacyjny
 
