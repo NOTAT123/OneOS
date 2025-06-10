@@ -8,9 +8,9 @@
 
 #### PLIK NADAL MOZESZ POBRAĆ [TU](https://drive.google.com/file/d/1SihwLf_RGbJ_RuLnXA7zvpM1xV2XV-LJ/view?usp=sharing)
 
-# 🖥️ OneOS – Mój własny system operacyjny
+# 🖥️ OneOS
 
-**OneOS** to lekki system operacyjny tworzony w języku **C++**, który oferuje podstawowe funkcje GUI, terminal, oraz aplikacje systemowe. Obecna wersja: **1.8.5**
+**OneOS** to lekki system operacyjny tworzony w języku **C++ i C#**, który oferuje podstawowe funkcje GUI, terminal, oraz aplikacje systemowe. Obecna wersja: **1.8.5**
 
 ## 🚀 Funkcje
 
