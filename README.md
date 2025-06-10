@@ -1,5 +1,5 @@
 # OneOS
-OneOS is a operating system made in Cosmos (C# and C++) by a Polish developer.
+OneOS is a operating system made in Cosmos (C# and C++) by a Polish developer.\n
 OneOS to system operacyjny zrobiony w Cosmos (C# i C++) przez Polskiego Dewelopera.
 --
 #INFO
